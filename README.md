@@ -1,0 +1,2 @@
+# premium-gbtool-repair-001-historical-binding-restoration
+Tracking historical binding restoration projects across spreadsheets and scattered notes wastes precious restoration time. The Historical Binding Restoration Template consolidates your entire restoration workflow—from initial assessment to gold tooling completion—in one organized Notion workspace.  This template is purpose-built for heritage bookbi
